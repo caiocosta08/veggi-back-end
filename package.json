@@ -1,5 +1,5 @@
 {
-  "name": "mnt-back-end",
+  "name": "veggi-back-end",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caiocosta08/mnt-back-end.git"
+    "url": "git+https://github.com/caiocosta08/veggi-back-end.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caiocosta08/mnt-back-end/issues"
+    "url": "https://github.com/caiocosta08/veggi-back-end/issues"
   },
-  "homepage": "https://github.com/caiocosta08/mnt-back-end#readme",
+  "homepage": "https://github.com/caiocosta08/veggi-back-end#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
