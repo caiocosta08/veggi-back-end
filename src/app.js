@@ -13,6 +13,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 require('./controllers/users.controller')(app);
 require('./controllers/tasks.controller')(app);
+require('./controllers/costs.controller')(app);
 
 let port = process.env.PORT || 3030;
 
